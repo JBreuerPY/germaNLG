@@ -1,7 +1,8 @@
 
 ### Install the module from github like this
 ```python
-!pip install git+https://github.com/JBreuerPY/germaNLG```
+!pip install git+https://github.com/JBreuerPY/germaNLG
+```
 
 ### 1. Importing the module
 - import the Phrase class of the germaNLG module
