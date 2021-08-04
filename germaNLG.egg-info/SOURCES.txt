@@ -1,7 +1,7 @@
+LICENSE.txt
 README.md
 setup.py
 germaNLG/__init__.py
-germaNLG/germaNLG.py
 germaNLG.egg-info/PKG-INFO
 germaNLG.egg-info/SOURCES.txt
 germaNLG.egg-info/dependency_links.txt
