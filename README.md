@@ -10,7 +10,7 @@
 
 
 ```python
-from germaNLG.germaNLG import Phrase
+from germaNLG import Phrase
 ```
 
 ### 2. Creating simple sentences
